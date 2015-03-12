@@ -194,4 +194,7 @@ source "drivers/broadcast/Kconfig"
 
 
 source "drivers/felica/Kconfig"
+
+source "drivers/cpuquiet/Kconfig"
+
 endmenu

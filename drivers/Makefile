@@ -179,3 +179,6 @@ obj-$(CONFIG_LGE_BROADCAST_ISDBT_JAPAN) += broadcast/
 
 #FeliCa
 obj-$(CONFIG_LGE_FELICA)        += felica/
+
+# CPUQUIET
+obj-$(CONFIG_CPU_QUIET)		+= cpuquiet/
